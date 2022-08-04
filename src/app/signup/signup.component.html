@@ -1,0 +1,96 @@
+<section class=" bg-image " style="background-image: url('assets/xyz.png'); position: relative;
+height: 100vh;
+">
+    <div class="mask d-flex align-items-center h-100 gradient-custom- ">
+        <div class="container h-60">
+            <div class="row d-flex justify-content-center align-items-center h-50">
+                <div class="col-12 col-md-9 col-lg-7 col-xl-6">
+                    <div class="card " style="border-radius: 15px;">
+                        <div class="card-body ">
+                            <h2 class="text-uppercase text-center">Create an account</h2>
+
+                            <form [formGroup]="signupForm" (ngSubmit)="signUp()" novalidate>
+                                <!--binding-->
+
+                                <div class="form-outline ">
+                                    <label class="form-label fw-bold" for="form3Example1cg">Name</label>
+                                    <input formControlName="name" type="text" id="form3Example1cg"
+                                        class="form-control form-control-medium" placeholder="Enter Full Name" />
+                                    <span style="color: red;" *ngIf="name?.invalid &&name?.touched ">Username is
+                                        required</span>
+                                </div>
+
+                                <div class="form-outline ">
+                                    <label class="form-label fw-bold" for="form3Example3cg">Email</label>
+                                    <input formControlName="email" type="email" id="form3Example3cg"
+                                        class="form-control form-control-medium" placeholder="abc@example.com" />
+                                    <span style="color: red;" *ngIf="email?.invalid &&email?.touched ">Email is
+                                        required</span>
+                                </div>
+
+                                <div class="form-outline">
+                                    <label class="form-label fw-bold" for="form3Example4cg">Password</label>
+                                    <input formControlName="password" type="password" id="form3Example4cg"
+                                        class="form-control form-control-medium" placeholder="Enter password" />
+                                    <span style="color: red;" *ngIf="password?.invalid &&password?.touched ">password is
+                                        required</span>
+
+                                </div>
+
+
+
+                                <div class="form-check d-flex justify-content-center">
+                                    <input (click)="toggleInput()" class="form-check-input me-2" type="checkbox"
+                                        value="" id="form2Example3cg" />
+                                    <label class="form-check-label" for="form2Example3g">
+                                        <p><u> show more fields</u></p>
+                                    </label>
+                                </div>
+                                <!--show new fields-->
+                                <div *ngIf="showInput">
+                                    <div>
+                                        <!--FIRST FIELD-->
+                                        <div class="form-outline">
+                                            <label class="form-label fw-bold" for="form3Example1cg">Mobile</label>
+                                            <input formControlName="mobile" type="text" id="form3Example1cg"
+                                                class="form-control form-control-medium" placeholder="+91" />
+
+
+                                        </div>
+                                        <!--SECOND fIELD-->
+                                        <div class="form-outline">
+                                            <label class="form-label" for="form3Example1cg">Address</label>
+                                            <input formControlName="address" type="text" id="form3Example1cg"
+                                                class="form-control form-control-medium" placeholder="Enter address" />
+
+
+                                        </div>
+                                        <!-- tHIRD FIELD-->
+                                        <div class="form-outline">
+                                            <label class="form-label fw-bold" for="form3Example1cg">Pincode</label>
+                                            <input formControlName="pincode" type="text" id="form3Example1cg"
+                                                class="form-control form-control-medium" placeholder="Enter pincode" />
+
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex justify-content-center">
+                                    <button type="submit"
+                                        class="btn btn-primary btn-block btn-md gradient-custom- text-body"
+                                        (click)="signUp()" [disabled]="!signupForm.valid">Register</button>
+                                </div>
+
+                                <p class="text-center text-muted mt-2 mb-0"> Already an account? <a routerLink="/login"
+                                        class="fw-bold text-body"><u>Login here</u></a></p>
+
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

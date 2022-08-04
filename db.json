@@ -1,0 +1,365 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "address": "",
+      "pincode": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "address": "",
+      "pincode": "",
+      "id": 3
+    },
+    {
+      "name": "jjk",
+      "email": "dfgdg",
+      "password": "rytrt",
+      "mobile": "",
+      "address": "",
+      "pincode": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "address": "",
+      "pincode": "",
+      "id": 5
+    },
+    {
+      "name": "musaib",
+      "email": "musaib@gmail.com",
+      "password": "msnjsdhc",
+      "mobile": "09541270349",
+      "address": "Kursoo, Padshahai Bagh Near Flood Bridge",
+      "pincode": "190008",
+      "id": 6
+    },
+    {
+      "name": "barii",
+      "email": "musaib709@gmail.com",
+      "password": "23433578980",
+      "mobile": "5555555",
+      "address": "100",
+      "pincode": "191103",
+      "id": 7
+    },
+    {
+      "name": "test",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "address": "",
+      "pincode": "",
+      "id": 8
+    },
+    {
+      "name": "musaib",
+      "email": "musaib@gmail",
+      "password": "",
+      "mobile": "",
+      "address": "",
+      "pincode": "",
+      "id": 9
+    },
+    {
+      "name": "mmm",
+      "email": "musaibgul@gmail.com",
+      "password": "12345678",
+      "mobile": "9541270349",
+      "address": "Gundbal",
+      "pincode": "191103",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "address": "",
+      "pincode": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "address": "",
+      "pincode": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "address": "",
+      "pincode": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "address": "",
+      "pincode": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "address": "",
+      "pincode": "",
+      "id": 15
+    },
+    {
+      "name": "arif",
+      "email": "jdsjsdh",
+      "password": "djksjd",
+      "mobile": "dkkjkfjjf",
+      "address": "sdjkjdhfh",
+      "pincode": "11111",
+      "id": 16
+    },
+    {
+      "name": "hu",
+      "email": "hjhjh@gmail.com",
+      "password": "jhjkh",
+      "mobile": "hhyug",
+      "address": "j",
+      "pincode": "ghgh",
+      "id": 17
+    },
+    {
+      "name": "musaib",
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "mobile": "oieeiu",
+      "address": "erueiur",
+      "pincode": "jhhrjhr",
+      "id": 18
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 19
+    },
+    {
+      "name": "Abdul Bari",
+      "email": "bari@gmail.com",
+      "password": "123456",
+      "mobile": "",
+      "address": "",
+      "pincode": "",
+      "id": 20
+    },
+    {
+      "id": 21,
+      "name": "new",
+      "email": "new@try",
+      "password": "123456",
+      "mobile": "",
+      "address": "",
+      "pincode": ""
+    },
+    {
+      "id": 22,
+      "name": "Musaib",
+      "email": "Musaib123@gmail.com",
+      "password": "123",
+      "mobile": "09541270349",
+      "address": "Kursoo, Padshahai Bagh Near Flood Bridge",
+      "pincode": "190008"
+    },
+    {
+      "id": 23,
+      "name": "basit",
+      "email": "basit@gmail.com",
+      "password": "1234",
+      "mobile": "",
+      "address": "",
+      "pincode": ""
+    },
+    {
+      "id": 24,
+      "name": "09541270349",
+      "email": "basit@gmail.com",
+      "password": "1234",
+      "mobile": "09541270349",
+      "address": "Kursoo, Padshahai Bagh Near Flood Bridge",
+      "pincode": "190008"
+    },
+    {
+      "id": 25,
+      "name": "abdul basit",
+      "email": "basit@gmail.com",
+      "password": "12345",
+      "mobile": "9541270349",
+      "address": "Gundbal",
+      "pincode": "191103"
+    },
+    {
+      "id": 26,
+      "name": "ab",
+      "email": "basit12@gmail.com",
+      "password": "5678",
+      "mobile": "95412703666",
+      "address": "Gundbal",
+      "pincode": "191103"
+    },
+    {
+      "id": 27,
+      "name": "basu",
+      "email": "basit12@gmail.com",
+      "password": "1234",
+      "mobile": "9541270349",
+      "address": "Gundbal",
+      "pincode": "191103"
+    },
+    {
+      "id": 28,
+      "name": "aaaaaa",
+      "email": "basit@gmail.com",
+      "password": "1234",
+      "mobile": "",
+      "address": "",
+      "pincode": ""
+    }
+  ],
+  "login": [
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 1
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 2
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 3
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 4
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 5
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 6
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 7
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 8
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 9
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 10
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 11
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 12
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 13
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 14
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 15
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 16
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 17
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 18
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 19
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 20
+    },
+    {
+      "email": "musaib9@gmail.com",
+      "password": "5678",
+      "id": 21
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
